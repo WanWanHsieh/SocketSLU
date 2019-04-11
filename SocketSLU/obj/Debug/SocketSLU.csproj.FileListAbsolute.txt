@@ -1,0 +1,7 @@
+c:\users\olive\source\repos\SocketSLU\SocketSLU\obj\Debug\SocketSLU.csprojResolveAssemblyReference.cache
+c:\users\olive\source\repos\SocketSLU\SocketSLU\obj\Debug\SocketSLU.csproj.CoreCompileInputs.cache
+C:\Users\Olive\source\repos\SocketSLU\SocketSLU\bin\Debug\SocketSLU.exe.config
+C:\Users\Olive\source\repos\SocketSLU\SocketSLU\bin\Debug\SocketSLU.exe
+C:\Users\Olive\source\repos\SocketSLU\SocketSLU\bin\Debug\SocketSLU.pdb
+C:\Users\Olive\source\repos\SocketSLU\SocketSLU\obj\Debug\SocketSLU.exe
+C:\Users\Olive\source\repos\SocketSLU\SocketSLU\obj\Debug\SocketSLU.pdb
